@@ -112,8 +112,7 @@ const memories: Memory[] = [
       "We started bunking lectures and sitting together in the tutorial room. Somehow those stolen hours became some of my favourite hours.",
     rotation: -1,
   },
-  ,
- 
+  
   {
     id: 9,
     image: "/photos/uu.jpeg",
