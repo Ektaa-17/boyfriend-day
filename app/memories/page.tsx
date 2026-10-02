@@ -188,7 +188,7 @@ const memories: Memory[] = [
     image: "/photos/WhatsApp Image 2026-10-01 at 10.03.43 PM.jpeg",
     date: "2026",
     place: "Primal Garden",
-    title: "From Flight to Forever",
+    title: "From Fight to Forever",
     story:
       "We were fighting, but somehow even after the storm, we found our way back to each other. 🥹❤️ One little moment of understanding, and suddenly everything felt okay again. 🫣🫶🏻 This picture reminds me that no matter how silly our fights get, we always choose each other. ☺️❤️ Because at the end of the day, you’re still my safest place. 🥹🫂",
     rotation: -2,
